@@ -1,0 +1,29 @@
+{
+  "name": "tiny-text",
+  "version": "1.0.0",
+  "description": "A helpful text converter to change any normal text into cuter tinier text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachelnicole/tiny-text.git"
+  },
+  "keywords": [
+    "botally",
+    "tiny",
+    "type",
+    "tiny",
+    "text",
+    "cute",
+    "text",
+    "generator"
+  ],
+  "author": "Rachel White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachelnicole/tiny-text/issues"
+  },
+  "homepage": "https://github.com/rachelnicole/tiny-text#readme"
+}
